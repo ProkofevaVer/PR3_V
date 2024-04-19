@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\Kitaev\PR3_Ver\bin\Debug\PR3_Ver.exe.config
+C:\Users\student\Desktop\Kitaev\PR3_Ver\bin\Debug\PR3_Ver.exe
+C:\Users\student\Desktop\Kitaev\PR3_Ver\bin\Debug\PR3_Ver.pdb
+C:\Users\student\Desktop\Kitaev\PR3_Ver\obj\Debug\PR3_Ver.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Kitaev\PR3_Ver\obj\Debug\PR3_Ver.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Kitaev\PR3_Ver\obj\Debug\PR3_Ver.exe
+C:\Users\student\Desktop\Kitaev\PR3_Ver\obj\Debug\PR3_Ver.pdb
