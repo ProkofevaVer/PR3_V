@@ -24,7 +24,6 @@ namespace PR3_Ver
                 {
                     A = int.Parse(Console.ReadLine());
                 }
-
                 else if (sv == 6)
                 {
                     del = A / B;
