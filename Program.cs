@@ -21,7 +21,7 @@ namespace PR3_Ver
             while (true)
             {
                 int sv = int.Parse(Console.ReadLine());
-                if (sv == 3)
+                if (sv == 4)
                 {
                     minus = A - B;
                 }
