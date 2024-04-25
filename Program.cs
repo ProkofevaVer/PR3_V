@@ -13,6 +13,7 @@ namespace PR3_Ver
             Console.WriteLine("Ввести число A - 0 \nВвести число B - 1\nВыполнить сложение - 3\nВыполнить вычитание - 4\n" +
                               "Выполнить умножение - 5\nВыполнить деление - 6");
 
+           
             
 
             
@@ -22,6 +23,7 @@ namespace PR3_Ver
             int del = 0;
             int sum = 0;
             int mov = 0;
+            int minus = 0;
 
             while (true)
             {
@@ -34,7 +36,10 @@ namespace PR3_Ver
                 {
                     mov = A * B;
                 }
-
+                else if (sv == 4)
+                {
+                    minus = A - B;
+                }
                 else if (sv == 0)
                 {
                     A = int.Parse(Console.ReadLine());
