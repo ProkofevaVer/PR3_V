@@ -16,10 +16,16 @@ namespace PR3_Ver
             int B = 0;
             int del = 0;
 
-            while (true)
+
+            while (true) 
             {
                 int sv = int.Parse(Console.ReadLine());
-                if (sv == 6)
+                if (sv == 0) 
+                {
+                    A = int.Parse(Console.ReadLine());
+                }
+
+                else if (sv == 6)
                 {
                     del = A / B;
                 }
