@@ -23,8 +23,6 @@ namespace PR3_Ver
                 {
                     del = A / B;
                 }
-
-                
                 else if (sv == 1)
                 {
                     B = int.Parse(Console.ReadLine());
