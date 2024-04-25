@@ -49,7 +49,6 @@ namespace PR3_Ver
                     B = int.Parse(Console.ReadLine());
                 }
             }
-        } 
-            
+        }  
     }
 }
