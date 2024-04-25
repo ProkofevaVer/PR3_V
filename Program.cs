@@ -12,9 +12,18 @@ namespace PR3_Ver
         {
             Console.WriteLine("Ввести число A - 0 \nВвести число B - 1\nВыполнить сложение - 3\nВыполнить вычитание - 4\n" +
                 "Выполнить умножение - 5\nВыполнить деление - 6");
+            int A = 0;
+            int B = 0;
+            int del = 0;
 
-            Console.ReadKey();
-           //double A = Convert.ToDouble(Console.ReadLine("Введите число А"));
+            while (true)
+            {
+                int sv = int.Parse(Console.ReadLine());
+                if (sv == 6)
+                {
+                    del = A / B;
+                }
+            }
         }
     }
 }
